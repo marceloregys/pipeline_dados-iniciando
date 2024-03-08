@@ -16,7 +16,7 @@
 <div>data_raw: Onde armazenamos os dados brutos</div>
 <div>data_processed: Onde armazenamos os dados j&aacute; processados</div>
 <div>notebooks: Onde criamos um arquivo de explora&ccedil;&atilde;o dos dados</div>
-<div>scripts: Neta pasta criamos dois arquivos em Python, o <em>fusao_mercado_fev.py</em> que &eacute; o arquivo principal e o arquivo <em>processamento_dados.py</em>, onde criamos o objeto Dados e suas fun&ccedil;&otilde;es.</div>
+<div>scripts: Nesta pasta criamos dois arquivos em Python, o <em>fusao_mercado_fev.py</em> que &eacute; o arquivo principal e o arquivo <em>processamento_dados.py</em>, onde criamos o objeto Dados e suas fun&ccedil;&otilde;es.</div>
 <div>&nbsp;</div>
 <div>
 <div><strong>Criando estrutura de pastas utilizando terminal Linux:</strong></div>
@@ -37,5 +37,4 @@
 <div><strong>Ativando venv no Windows:</strong></div>
 <div>.venv\Scripts\activate.bat</div>
 <div>&nbsp;</div>
-<div>Pendencias:&nbsp;</div>
 </div>
